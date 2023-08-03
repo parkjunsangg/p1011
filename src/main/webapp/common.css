@@ -1,0 +1,10 @@
+@charset "UTF-8";
+th, td { padding: 15px;
+		border: 1px solid rgb(255, 255, 183); }
+td { background-color: rgb(234, 255, 255); text-align: center;}
+caption { font-size: 30px; font-weight: bold;
+	line-height: 150%;	}
+table { background-color: rgb(217, 217, 217);
+	border: 1px solid rgb(202, 255, 216); width: 90%; }
+body { background-color: rgb(204, 220, 223); }
+#err { color: red; font-weight: bold; } 
